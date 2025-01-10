@@ -60,8 +60,8 @@ Responsive Layout: Adjusts smoothly across different screen sizes. Daytime on la
 
 ## Project Screenshot
 
-![City Skyline Project Large Screen](images/city-skyline-img1.png)
-![City Skyline Project Smaller Screen](images/city-skyline-img2.png)
+![City Skyline Project Large Screen](images/city-skyline-img3.png)
+![City Skyline Project Smaller Screen](images/city-skyline-img4.png)
 
 
 🤝 Contributing
